@@ -6,6 +6,7 @@ let videoEl = document.querySelector(".video")
 
 btnE1.addEventListener("click", () => {
     trailercontainerE1.classList.add("active");
+    videoEl.resume();
   });
   
   closeiconE1.addEventListener("click", () => {
