@@ -51,6 +51,10 @@ border: none;
 .active{
     display: flex;
 }
-.video{
-max-width: 7000px;
+.vide{
+padding: 0px 40px;
+   max-width:890px;
+   width: 100%;
+     /* height:500px; */
 }
+
